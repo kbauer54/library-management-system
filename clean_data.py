@@ -86,7 +86,7 @@ def write_csv(filename, rows, fieldnames):
         writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter="|", quoting=csv.QUOTE_NONE, escapechar="\\")
         writer.writeheader()
         writer.writerows(rows)
-    print(f"    {filename} — {len(rows)} rows")
+    print(f"    {filename} - {len(rows)} rows")
 
 # ---------------------------
 # LOAD EXISTING BOOK IDS from books.csv
@@ -160,7 +160,7 @@ write_csv("loans.csv", loans,
 # DERIVE FINES from late loans
 # ---------------------------
 
-print("Deriving fines → fines.csv")
+print("Deriving fines and converting to fines.csv")
 
 fines = []
 fine_id = 1
@@ -189,11 +189,11 @@ for loan in loans:
 write_csv("fines.csv", fines,
     ["fine_id", "patron_id", "loan_id", "amount", "paid_status"])
 
-# ─────────────────────────────────────────
-# CLEAN CHICAGO EVENTS → events.csv
-# ─────────────────────────────────────────
+# ---------------------------
+# CLEAN CHICAGO EVENTS into events.csv
+# ---------------------------
 
-print("Cleaning Chicago events → events.csv")
+print("Cleaning Chicago events and converting to events.csv")
 
 events = []
 event_id_counter = 1
@@ -230,12 +230,12 @@ with open("events_raw.csv", "r", encoding="utf-8") as f:
 write_csv("events.csv", events,
     ["event_id", "name", "description", "event_date", "branch_id", "staff_id", "capacity"])
 
-# ─────────────────────────────────────────
+# ---------------------------
 # DERIVE RESERVATIONS
 # Pick patron/book combos and set status
-# ─────────────────────────────────────────
+# ---------------------------
 
-print("Deriving reservations → reservations.csv")
+print("Deriving reservations and converting to reservations.csv")
 
 reservations = []
 seen_pairs = set()
@@ -268,12 +268,12 @@ while len(reservations) < 50:
 write_csv("reservations.csv", reservations,
     ["reservation_id", "book_id", "patron_id", "reservation_date", "status"])
 
-# ─────────────────────────────────────────
+# ---------------------------
 # DERIVE EVENT REGISTRATIONS
 # Randomly assign 2-3 patrons per event
-# ─────────────────────────────────────────
+# ---------------------------
 
-print("Deriving event registrations → event_registrations.csv")
+print("Deriving event registrations and converting to event_registrations.csv")
 
 event_registrations = []
 seen_pairs = set()
@@ -308,12 +308,12 @@ for event in events:
 write_csv("event_registrations.csv", event_registrations,
     ["patron_id", "event_id", "registration_date"])
 
-# ─────────────────────────────────────────
+# ---------------------------
 # DERIVE INVENTORY
 # Each book gets 1-3 copies at each branch
-# ─────────────────────────────────────────
+# ---------------------------
 
-print("Deriving inventory → inventory.csv")
+print("Deriving inventory and converting to inventory.csv")
 
 inventory = []
 inventory_id = 1
