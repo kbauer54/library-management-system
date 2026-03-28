@@ -3,12 +3,19 @@ import csv
 import time
 
 # ---------------------------
+# This script is used to pull data on books from the Open Library API
+# Some data cleaning is done through the process and the output is 5 different csv files
+# books.csv, authors.csv, book_authors.csv, publishers.csv, and genres.csv
+# ---------------------------
+
+
+# ---------------------------
 # CONFIGURATION
 # ---------------------------
 
 SUBJECTS = ["fiction", "mystery", "science_fiction", "history", "biography"]
 LIMIT_PER_SUBJECT = 60   # 5 subjects × 60 = 300 books
-OUTPUT_DIR = "./"   # Sets the output of the data to the same folder as this code
+OUTPUT_DIR = "./"   # Sets the output of the data to the same folder as this script
 # ---------------------------
 
 books = {}
