@@ -1,0 +1,253 @@
+book_id|title|isbn|publication_year|genre_id|publisher_id
+1|The Iron Heel|9798405589701|1907|1|1
+2|Brood of the Witch-Queen|9781985600270|1924|1|2
+3|The Narrative of Arthur Gordon Pym|9781686480614|1838|1|3
+4|The Napoleon of Notting Hill|9798570678095|1904|1|4
+5|Emily of New Moon|1659541360|1923|1|5
+6|The Vampyre|9781545585320|1819|1|6
+7|The Sea Fairies|9798503946949|1911|1|7
+8|The Enchanted Castle|1722789786|1907|1|8
+9|Pollyanna|9781374823150|1912|1|9
+10|Игрокъ|9781516935925|1866|1|10
+11|Anne of the Island|177541115X|1826|1|11
+12|Lilith|9781545591949|1895|1|12
+13|Anthem|1979120919|1936|1|13
+14|Le roman du masque de fer|9781434625687|1600|1|14
+15|Tarzan of the Apes|9781442948488|1912|1|15
+16|The Road to Oz|1729558844|1909|1|16
+17|The Canterville Ghost|3842451156|1887|1|17
+18|The food of the gods and how it came to earth|9781096950868|1900|1|18
+19|Martin Eden|9798625021456|1908|1|19
+20|The Last Man|9781082568442|1826|1|20
+21|Anne of Windy Poplars|9798661242426|1900|1|5
+22|The blue castle|1680575589|1926|1|5
+23|Phantastes|1407623176|1850|1|21
+24|Just So Stories|9789997745651|1922|1|20
+25|A Modern Utopia|9781374933507|1900|1|22
+26|The Complete Life and Adventures of Santa Claus|9781387548095|1902|1|23
+27|The King in Yellow|9781521934067|1895|1|24
+28|Jo's Boys|1409724220|1886|1|25
+29|Of Human Bondage|1978004044|1915|1|5
+30|Herland|107045821X|1915|1|26
+31|The Power of Darkness|9798469889991|2006|1|7
+32|Dorothy and the Wizard in Oz|9798547684876|1908|1|27
+33|Carmilla|9798768688677|1871|1|10
+34|The Phoenix and the Carpet|1985402874|1903|1|28
+35|The Mystery of the Blue Train|9789752105966|1928|1|29
+36|Kim|9798625380362|1901|1|30
+37|Daddy-Long-Legs|9780590434072|1912|1|15
+38|The Man in the Brown Suit|9781545124994|1924|1|13
+39|A Little Princess|9789626347546|1905|1|31
+40|The Beautiful and Damned|9781697587043|1920|1|32
+41|Under the Greenwood Tree or, The Mellstock quire|9780333024355|1872|1|33
+42|A Princess of Mars|1595402314|1917|1|34
+43|On the Beach|1520805209|1957|1|35
+44|Howards End|1986530507|1910|1|15
+45|The Black Cat|9798564449045|1914|1|36
+46|The Jewel of Seven Stars|9780141919676|1902|1|37
+47|Shirley|9781686848926|1800|1|38
+48|Мастер и Маргарита|9786254054112|1966|1|39
+49|An American Tragedy|1419176617|1900|1|40
+50|The Story of the Amulet|1072749386|1905|1|41
+51|Sult|9781794713802|1890|1|42
+52|Jamaica Inn|9788401491580|1936|1|43
+53|The World Set Free|9781792154195|1914|1|44
+54|The Book of Dragons|9798749935417|1973|1|28
+55|The Picture of Dorian Gray|9798547664731|1890|1|45
+56|She|1722864907|1886|1|46
+57|Voyage au Centre de la Terre|9781412196727|1867|1|47
+58|The First Men in the Moon|9783423122375|1900|1|48
+59|The Invisible Man|9780006125297||1|10
+60|Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte|9786073831246|1973|1|49
+61|The Secret of Chimneys|9788447368938|1925|2|50
+62|Nemesis|9788427202948|1970|2|51
+63|At Bertram's Hotel|9780563388821|1965|2|52
+64|They Do It with Mirrors|0854567836|1952|2|53
+65|4:50 from Paddington|0854564748|1957|2|54
+66|The Mirror Crack'd from Side to Side|9780785799030|1960|2|55
+67|Hallowe'en Party|0396090125|1969|2|56
+68|The Big Four|1959891243|1927|2|57
+69|Ordeal by Innocence|8427298684|1958|2|58
+70|Murder in Three Acts|9780425090411|1934|2|59
+71|Crooked House|846706501X|1949|2|53
+72|After the Funeral|9780816145522|1953|2|52
+73|Sleeping Murder|9781572702851|1940|2|53
+74|The Big Sleep|9788373192249|1939|2|60
+75|Peril at End House|9780671774516|1932|2|61
+76|Five Little Pigs|9781572704077|1942|2|55
+77|Poirot investigates|9781713543787|1924|2|62
+78|Elephants Can Remember|9780007174096|1969|2|51
+79|The Murder at the Vicarage|9781545125113|1930|2|63
+80|The Hollow|9783502517276|1946|2|53
+81|The Club of Queer Trades|9781522011019|1900|2|64
+82|Curtain|0754008398|1975|2|65
+83|A Pocket Full of Rye|0563510358|1953|2|66
+84|The Man Who Knew Too Much|197580225X|1922|2|67
+85|The Moving Finger|846705851X|1942|2|54
+86|The Murder of Roger Ackroyd|9780739404638|1926|2|68
+87|Whose Body?|9798733719542|1923|2|67
+88|His Last Bow [8 stories]|9798491391608|1917|2|69
+89|The Innocence of Father Brown (Father Brown Mystery)|9798751725112|1583|2|70
+90|Sparkling Cyanide|9781444802986|1945|2|71
+91|Appointment with Death|8479015276|1938|2|72
+92|Evil Under the Sun|0396080170|1941|2|73
+93|One, Two, Buckle My Shoe|9504911676|1940|2|74
+94|Murder on the Links|9798448834387|1923|2|52
+95|The Sign of Four|9798749498172|1889|2|75
+96|Hercule Poirot's Christmas|0007191189|1939|2|54
+97|Lord Edgware Dies|9788477511274|1933|2|53
+98|Death in the Clouds|3455651305|1935|2|53
+99|The Body in the Library|9787506300056|1942|2|76
+100|Memoirs of Sherlock Holmes [11 stories]|9798634890968|1893|2|77
+101|A Caribbean Mystery|9780396091561|1964|2|78
+102|The Daughter of Time|9798738060571|1951|2|79
+103|Murder in Mesopotamia|9780060599997|1936|2|80
+104|And Then There Were None|0671552228|1939|2|80
+105|The Secret Adversary|9781637030363|1922|2|81
+106|The Man Who Was Thursday|9798769195808|1908|2|82
+107|The Case-Book of Sherlock Holmes|9780719530128|1927|2|62
+108|The Valley of Fear|1554436486|1914|2|54
+109|A Study in Scarlet|9798532973466|1887|2|83
+110|Cards on the Table|9798785029934|1936|2|84
+111|A Murder Is Announced|9780563552512|1950|2|85
+112|The Murders in the Rue Morgue|4843331570|1841|2|86
+113|The Adventures of Sherlock Holmes [12 stories]|9798736487103|1892|2|75
+114|The A.B.C. Murders|0006124119|1936|2|87
+115|The Moonstone|1796611557|1800|2|88
+116|Death on the Nile|9780007234479|1937|2|80
+117|Murder on the Orient Express|9781985726932|1933|2|89
+118|2001|141147127X|1968|3|90
+119|The Martian Chronicles|1548375713|1950|3|91
+120|De la terre à la lune|9780582534575|1865|3|92
+121|The book of the damned|9781602060081|1919|3|93
+122|Dune|9781101658055|1965|3|94
+123|Мы|9781794391499|1924|3|82
+124|The Hitch Hiker's Guide to the Galaxy|843391247X|1979|3|95
+125|The Time Machine|9781673523362|1895|3|96
+126|Brave New World|1503138895|1932|3|5
+127|Flatland|9798817757675|1884|3|44
+128|The War of the Worlds|0899663761||3|11
+129|Fahrenheit 451|9786053757818|1953|3|97
+130|Vingt mille lieues sous les mers|160459649X|1870|3|15
+131|R.U.R. and The insect play|9781985714984|1920|3|98
+132|When the Sleeper Awakes|9781707794942|1899|3|99
+133|The Island of Dr. Moreau|0342817728|1896|3|100
+134|Frankenstein or The Modern Prometheus|1847493505|1818|3|101
+135|The Last Battle|9788804599074|1956|3|102
+136|It Can't Happen Here|9781520439921|1935|3|103
+137|The Silver Chair|0563538872|1953|3|102
+138|Animal Farm|9788377583050|1945|3|104
+139|Charlie and the Great Glass Elevator|9780141349831|1972|3|105
+140|Ender's Game|9781841491356|1985|3|106
+141|The Handmaid's Tale|0771008554|1985|3|107
+142|The Lost World|9798580119304|1900|3|15
+143|Бѣсы|3942963264|1871|3|108
+144|Genji monogatari|9781101082546|1900|3|109
+145|The Magician's Nephew|0898458773|1955|3|110
+146|The Princess and the Goblin|9781791713409|1872|3|111
+147|Dracula|1435159578|1897|3|14
+148|Slaughterhouse-Five|0099268795|1968|3|112
+149|Nineteen Eighty-Four|1785996312|1949|3|101
+150|The Strange Case of Dr. Jekyll and Mr. Hyde|9781961763012|1875|3|113
+151|The Lightning Thief|9786068044422|2005|3|15
+152|The Secret Agent|1421841916|1907|3|5
+153|The Wonderful Wizard of Oz|8475078524|1899|3|114
+154|Hard Times|9781511465410|1854|3|115
+155|Northern Lights|9789352751822|1995|3|116
+156|Le Tour du Monde en Quatre-Vingts Jours|9780863832673|1872|3|117
+157|The Lion, the Witch and the Wardrobe|0001831526|1950|3|118
+158|The Giver|9780358354734|1993|3|119
+159|The Story of Philosophy|1512110353|1926|4|120
+160|The Enduring Vision|0618063056|1987|4|121
+161|La conquête du pain|9781015401303|1892|4|122
+162|A Study of History|9780192152251|1900|4|123
+163|History of the Decline and Fall of the Roman Empire Complete and Unabridged|067943593X|1776|4|72
+164|The Riddle of the Sands|0283979070|1903|4|72
+165|A dictionary of the English language|9780713998870|1747|4|124
+166|Twelve years a slave|0807151440|1853|4|125
+167|History|1432555022|1494|4|126
+168|Naturalis historia|9788806566067|1469|4|127
+169|An autobiography|9788935630912|1927|4|82
+170|The Second World War|9780297609612|1948|4|128
+171|A Room of One's Own|9783311220039|1929|4|129
+172|Mémoires|9780270242690|1830|4|130
+173|The Art of War|0385292163|1900|4|131
+174|Εὐθύφρων / Κρίτων / Φαίδων / Ἀπολογία Σωκράτους|1387197363|1871|4|132
+175|Down and Out in Paris and London|1847499279|1933|4|133
+176|Homage to Catalonia|0141183055|1938|4|134
+177|The Travels of Marco Polo|8120609492|1818|4|135
+178|Manifest der Kommunistischen Partei|9781788883283|1848|4|136
+179|A Vindication of Rights of Woman|9798510646368|1792|4|137
+180|Up from Slavery|9780821601846|1900|4|138
+181|The Innocents Abroad|9780812967050|1800|4|139
+182|American notes|1983110523|1800|4|139
+183|Salomé|0887343678|1893|4|140
+184|De la démocratie en Amérique|1414201605|1835|4|72
+185|The history of the great plague in London in the year 1665|9781523300358|1722|4|130
+186|Notre Dame de Paris|1421921227|1831|4|141
+187|The Souls of Black Folk|0199957967|1903|4|142
+188|Rights of Man|1595478442|1791|4|139
+189|Philosophiae naturalis principia mathematica|1888009012|1687|4|143
+190|Orthodoxy|1986470466|1874|4|144
+191|History of the Peloponnesian War|9568351523|1526|4|145
+192|Jude the Obscure|9780451505705|1895|4|146
+193|Good wives|551950511X|1870|4|105
+194|Meghadūta|8121700205|1813|4|147
+195|Essay concerning human understanding|9780452004122|1689|4|148
+196|Mein Kampf|1475144687|1922|4|149
+197|The Scarlet Pimpernel|9780396049760|1900|4|150
+198|Mere Christianity|9780020869405|1943|4|151
+199|Anatomy|0894711350|1858|4|152
+200|Sonnenfinsternis|0553131877|1940|4|80
+201|Narrative of the life of Frederick Douglass|9781613060117|1845|4|153
+202|Ivanhoe|067920394X|1800|4|154
+203|A Tale of Two Cities|9781596882096|1800|4|155
+204|Gone With the Wind|2070768414|1936|4|156
+205|Ἀπολογία Σωκράτους|133380699X|1675|4|139
+206|The Book Thief|9780330423304|1998|4|157
+207|Poetics|8806186019|1536|4|135
+208|The Sun Also Rises|9798621394370|1926|4|128
+209|Antony and Cleopatra|1853260754|1734|4|158
+210|Walden|9781519112002|1854|4|159
+211|La père Goriot|9781651841907|1800|4|160
+212|Georg Baselitz|9783925520181|1970|4|161
+213|Jenseits von Gut und Böse|1387296302|1885|4|130
+214|The life of Olaudah Equiano, or Gustavus Vassa, the African|9781533326256|1789|5|162
+215|Autobiography of a Yogi|9780712614245|1946|5|163
+216|Les confessions|165989543X|1782|5|164
+217|Lives|9780461861600|1564|5|165
+218|Terre des hommes|9781502901460|1936|5|166
+219|Der Antichrist|9788495466006|1895|5|167
+220|Incidents in the Life of a Slave Girl|1547127252|1861|5|168
+221|Confessions|9780451527806|1482|5|169
+222|The Autobiography of Benjamin Franklin|9781461177777|1791|5|170
+223|Tuesdays with Morrie|9789706516473|1994|5|171
+224|A Mind That Found Itself|9781599868844|1908|5|81
+225|Se questo è un uomo|3423115610|1947|5|82
+226|Vol de nuit|9798543601136|1931|5|172
+227|... Trotzdem Ja zum Leben sagen|1416524282|1946|5|173
+228|Das Schloß|9780786195053|1926|5|72
+229|Maria; or, The Wrongs of Woman|1702322203|1799|5|20
+230|Poems by John Keats|0141922680|1800|5|174
+231|Angela's Ashes|5171057893|1996|5|175
+232|The Pilgrim's Progress|1787248305|1678|5|176
+233|Moralia|359871680X|1500|5|72
+234|The Razor's Edge|3257200889|1944|5|177
+235|Tom Sawyer, Detective|1980568308|1897|5|178
+236|Het Achterhuis|9012051355|1944|5|179
+237|Vincent van Gogh|2700019784|1914|5|135
+238|Schachnovelle|9752439594|1943|5|180
+239|Life on the Mississippi|9786074111736|1883|5|181
+240|Dubliners|1730813062|1914|5|182
+241|Max Ernst|9783492024952|1956|5|183
+242|Henry Moore|185585757X|1934|5|184
+243|Bambi|9781434104885|1923|5|185
+244|Exercitia spiritualia|9780912422329|1548|5|186
+245|Paradise Lost|0786148047|1667|5|187
+246|Letters to a young poet|9781611806861|1656|5|188
+247|Little House in the Big Woods|1405272163|1932|5|189
+248|Les fleurs du mal|9788490020807|1855|5|190
+249|Roughing It|9798732389906|1872|5|191
+250|Essais|9782869302280|1600|5|192
+251|Black Beauty|9780590240789|1877|5|193
+252|King Henry V|1849434182|1600|5|194
